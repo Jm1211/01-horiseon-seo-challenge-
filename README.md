@@ -4,7 +4,7 @@
  
 ## Deployment 
   https://jm1211.github.io/01-horiseon-seo-challenge-/
-  ![alt text](assets/images/screenshot 1)
+  ![alt text](assets/images/screenshot 1.png)
 
 
 ## License
