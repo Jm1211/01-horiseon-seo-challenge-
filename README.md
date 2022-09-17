@@ -4,8 +4,8 @@
  
 ## Deployment 
   https://jm1211.github.io/01-horiseon-seo-challenge-/
-  ![alt text](assets/images/screenshot 1.png)
-
+  
+<img width="1440" alt="Screenshot 1" src="https://user-images.githubusercontent.com/110876203/190841770-e9081e70-4855-4326-8a04-93a1926ed84a.png">
 
 ## License
   MIT
